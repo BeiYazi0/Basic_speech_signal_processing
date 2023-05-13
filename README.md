@@ -16,4 +16,4 @@ audiorecorder对象的方法及相关函数
 
 ## GUI用户界面	
 
-![] (./res/main.png)
+![](res/main.png)
